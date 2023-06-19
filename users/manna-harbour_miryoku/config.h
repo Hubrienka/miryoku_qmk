@@ -10,7 +10,7 @@
 // default but used in macros
 #undef TAPPING_TERM
 #define TAPPING_TERM 200
-#define BILATERAL_COMBINATIONS 500
+#define BILATERAL_COMBINATIONS
 
 // Prevent normal rollover on alphas from accidentally triggering mods.
 #define IGNORE_MOD_TAP_INTERRUPT
