@@ -9,16 +9,13 @@
 
 // default but used in macros
 #undef TAPPING_TERM
-#define TAPPING_TERM 160
-#define BILATERAL_COMBINATIONS 500
+#define TAPPING_TERM 180
 
 // Prevent normal rollover on alphas from accidentally triggering mods.
 #define IGNORE_MOD_TAP_INTERRUPT
 
 // Enable rapid switch from tap to hold, disables double tap hold auto-repeat.
-#define QUICK_TAP_TERM 160
-#define IGNORE_MOD_TAP_INTERRUPT
-#define PERMISSIVE_HOLD
+#define QUICK_TAP_TERM 180
 
 // Auto Shift
 #define NO_AUTO_SHIFT_ALPHA
