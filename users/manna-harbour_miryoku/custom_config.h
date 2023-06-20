@@ -5,3 +5,6 @@
 
 #pragma once
 
+#define IGNORE_MOD_TAP_INTERRUPT
+#define PERMISSIVE_HOLD
+#define BILATERAL_COMBINATIONS 500
